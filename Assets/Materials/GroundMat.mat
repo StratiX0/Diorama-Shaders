@@ -97,13 +97,20 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
+    - _BeachHeight: 1
+    - _BeachThreshold: 0.75
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
+    - _ColorIntensity: 5
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DarkGrassHeight: 4
+    - _DarkGrassThreshold: 0.5
+    - _DeepWaterHeight: 0
+    - _DeepWaterThreshold: 1
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -112,30 +119,51 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Height: 2
+    - _Height: 0.75
+    - _Intensity: 5
+    - _LightGrassHeight: 1
+    - _LightGrassThreshold: 0.5
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _RocksHeight: 8
+    - _RocksThreshold: 0.25
     - _Seed: 0
+    - _ShallowWaterHeight: 0
+    - _ShallowWaterThreshold: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
+    - _SnowHeight: 10
+    - _SnowThreshold: 0.25
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
+    - _VertexHeight: 5
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - _AccentColor: {r: 0.10386197, g: 0.6415094, b: 0.099857606, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BeachColor: {r: 1, g: 1, b: 0, a: 1}
+    - _BeachColor1: {r: 1, g: 0.8588236, b: 0.5529412, a: 1}
+    - _BeachColor2: {r: 1, g: 0.84313726, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DarkGrassColor: {r: 0.03835908, g: 0.23584905, b: 0, a: 0}
-    - _DeepWaterColor: {r: 0.02256172, g: 0, b: 0.5849056, a: 1}
+    - _DGrassAccentColor1: {r: 0.15356888, g: 0.2735849, b: 0.15702465, a: 0}
+    - _DGrassAccentColor2: {r: 0.18787716, g: 0.254717, b: 0.15018691, a: 0}
+    - _DarkGrassColor: {r: 0.038345814, g: 0.18867922, b: 0.036489844, a: 0}
+    - _DeepWaterColor: {r: 0.030391261, g: 0, b: 0.754717, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GrassColor: {r: 0.06826372, g: 0.4339623, b: 0, a: 1}
+    - _GrassColor: {r: 0.03962263, g: 0.26415092, b: 0, a: 1}
+    - _LGrassAccentColor1: {r: 0.34875408, g: 0.3679245, b: 0.18222676, a: 0}
+    - _LGrassAccentColor2: {r: 0.22717774, g: 0.24528301, b: 0.13536845, a: 0}
+    - _MudColor: {r: 0.3207547, g: 0.288019, b: 0.20425418, a: 0}
+    - _RocksColor: {r: 0.2264151, g: 0.2264151, b: 0.2264151, a: 0}
     - _Seed: {r: 0, g: 0, b: 0, a: 0}
     - _ShallowWaterColor: {r: 0, g: 0.44120786, b: 1, a: 1}
+    - _SnowColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
