@@ -94,7 +94,7 @@ Material:
     - _NadirColor: {r: 0, g: 0, b: 0, a: 0}
     - _NightSkyColor: {r: 0.0710217, g: 0.074034974, b: 0.11320752, a: 1}
     - _Scale: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _SkyColor: {r: 0.18396229, g: 0.62061393, b: 1, a: 1}
+    - _SkyColor: {r: 0.4026344, g: 0.613384, b: 0.9811321, a: 1}
     - _SunColor: {r: 191.74905, g: 132.4242, b: 0, a: 1}
     - _ZenithColor: {r: 0, g: 0.8916163, b: 1, a: 0}
   m_BuildTextureStacks: []

@@ -105,6 +105,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
+    - _AmbientIntensity: 1
     - _BeachHeight: 0
     - _BeachThreshold: 1
     - _Blend: 0
@@ -112,7 +113,7 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _ColorIntensity: 2
+    - _ColorIntensity: 1
     - _Cull: 2
     - _Cutoff: 0.5
     - _DarkGrassHeight: 30
@@ -121,6 +122,9 @@ Material:
     - _DeepWaterThreshold: 1
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
+    - _DiffuseIntensity: 1
+    - _DiffuseSmoothEdgeMax: 1
+    - _DiffuseSmoothEdgeMin: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -157,6 +161,7 @@ Material:
     - _AccentColor: {r: 0.10386197, g: 0.6415094, b: 0.099857606, a: 0}
     - _AccentRocksColor1: {r: 0.22745097, g: 0.22745097, b: 0.22745097, a: 1}
     - _AccentRocksColor2: {r: 0.5490196, g: 0.5490196, b: 0.5490196, a: 1}
+    - _AmbientColor: {r: 0, g: 0, b: 0, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BeachColor: {r: 1, g: 1, b: 0, a: 1}
     - _BeachColor1: {r: 1, g: 0.8588236, b: 0.5529412, a: 1}
@@ -166,6 +171,7 @@ Material:
     - _DGrassAccentColor2: {r: 0.18787716, g: 0.254717, b: 0.15018691, a: 0}
     - _DarkGrassColor: {r: 0.038345814, g: 0.18867922, b: 0.036489844, a: 0}
     - _DeepWaterColor: {r: 0.030391261, g: 0, b: 0.754717, a: 1}
+    - _DiffuseColor: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GrassColor: {r: 0.03962263, g: 0.26415092, b: 0, a: 1}
     - _LGrassAccentColor1: {r: 0.34875408, g: 0.3679245, b: 0.18222676, a: 0}
