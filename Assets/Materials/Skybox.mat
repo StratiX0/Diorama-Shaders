@@ -72,7 +72,7 @@ Material:
     - _QueueOffset: 0
     - _Seed: 0
     - _StarHeight: 1000
-    - _StarIntensity: 90
+    - _StarIntensity: 45
     - _StarPower: 45
     - _SunSize: 0.025
     - _ZenithBlend: 0.01
@@ -92,7 +92,7 @@ Material:
     - _GroundColor: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 1}
     - _HorizonColor: {r: 0.745283, g: 0.74491394, b: 0.72067463, a: 0}
     - _NadirColor: {r: 0, g: 0, b: 0, a: 0}
-    - _NightSkyColor: {r: 0.19824672, g: 0.20476252, b: 0.254717, a: 1}
+    - _NightSkyColor: {r: 0.0710217, g: 0.074034974, b: 0.11320752, a: 1}
     - _Scale: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _SkyColor: {r: 0.18396229, g: 0.62061393, b: 1, a: 1}
     - _SunColor: {r: 191.74905, g: 132.4242, b: 0, a: 1}
