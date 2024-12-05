@@ -55,13 +55,20 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _CloudIntensity: 3
+    - _CloudOffset: 156.96
+    - _CloudScale1: -11.58
+    - _CloudScale2: 1.17
+    - _CloudScale3: 5
     - _DayNightSlider: 0
     - _DistanceFadePower: 2
     - _HorizonBlend: 30
+    - _IsCloudSystem1: 0
     - _NadirBlend: 1
     - _NadirBlendPower: 0.3
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Seed: 0
     - _StarHeight: 1000
     - _StarIntensity: 90
     - _StarPower: 45
@@ -70,9 +77,18 @@ Material:
     - _ZenithBlendPower: 0.5
     m_Colors:
     - _AnimationSpeed: {r: 0.05, g: 0, b: 0, a: 0}
+    - _AnimationSpeed1_2: {r: -0.01, g: 0, b: 0, a: 0}
+    - _AnimationSpeed1_2_1: {r: -0.01, g: 0, b: 0, a: 0}
+    - _AnimationSpeed1_2_2: {r: -0.01, g: 0, b: 0, a: 0}
+    - _AnimationSpeed1_2_3: {r: -0.01, g: 0, b: 0, a: 0}
+    - _AnimationSpeed1_2_4: {r: -0.01, g: 0, b: 0, a: 0}
+    - _CloudAnimationSpeed1: {r: 0.03, g: 0, b: 0, a: 0}
+    - _CloudAnimationSpeed1_2: {r: 0.01, g: 0, b: 0, a: 0}
+    - _CloudAnimationSpeed2: {r: -0.03, g: 0, b: 0, a: 0}
+    - _CloudAnimationSpeed2_2: {r: -0.1, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _GroundColor: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 1}
-    - _HorizonColor: {r: 0.735849, g: 0.735849, b: 0.735849, a: 0}
+    - _HorizonColor: {r: 0.745283, g: 0.74491394, b: 0.72067463, a: 0}
     - _NadirColor: {r: 0, g: 0, b: 0, a: 0}
     - _NightSkyColor: {r: 0.19824672, g: 0.20476252, b: 0.254717, a: 1}
     - _Scale: {r: 0.5, g: 0.5, b: 0, a: 0}
