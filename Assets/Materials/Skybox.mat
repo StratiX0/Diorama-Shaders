@@ -55,11 +55,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CloudIntensity: 3
-    - _CloudOffset: 156.96
+    - _CloudIntensity: 7.5
+    - _CloudOffset: -64.6
+    - _CloudScale: 20
     - _CloudScale1: -11.58
     - _CloudScale2: 1.17
     - _CloudScale3: 5
+    - _CloudSeparation: -0.75
     - _DayNightSlider: 0
     - _DistanceFadePower: 2
     - _HorizonBlend: 30
