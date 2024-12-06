@@ -53,14 +53,14 @@ Material:
     - _DiffuseSmoothEdgeMin: 0
     - _FoamAmount: 1
     - _FoamCutOff: 0.9
-    - _FoamScale: 200
+    - _FoamScale: 400
     - _FoamSpeed: 1
     - _MaxHeight: 4
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionScale: 25
+    - _RefractionScale: 50
     - _RefractionSpeed: 0.03
-    - _RefractionStrength: 4
+    - _RefractionStrength: 10
     - _SpecularIntensity: 1
     - _SpecularPower: 50
     - _Strength: 0
