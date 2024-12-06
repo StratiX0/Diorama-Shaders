@@ -52,7 +52,7 @@ Material:
     - _DiffuseSmoothEdgeMax: 1
     - _DiffuseSmoothEdgeMin: 0
     - _FoamAmount: 1
-    - _FoamCutOff: 1
+    - _FoamCutOff: 0.9
     - _FoamScale: 200
     - _FoamSpeed: 1
     - _MaxHeight: 4
@@ -61,8 +61,8 @@ Material:
     - _RefractionScale: 25
     - _RefractionSpeed: 0.03
     - _RefractionStrength: 4
-    - _SpecularIntensity: 0.01
-    - _SpecularPower: 15
+    - _SpecularIntensity: 1
+    - _SpecularPower: 50
     - _Strength: 0
     - _WaterDepth: 50
     m_Colors:

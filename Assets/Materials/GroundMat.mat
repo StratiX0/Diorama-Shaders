@@ -105,7 +105,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _AmbientIntensity: 1
+    - _AmbientIntensity: 0
     - _BeachHeight: 0
     - _BeachThreshold: 1
     - _Blend: 0
@@ -122,7 +122,7 @@ Material:
     - _DeepWaterThreshold: 1
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DiffuseIntensity: 1
+    - _DiffuseIntensity: 0.01
     - _DiffuseSmoothEdgeMax: 1
     - _DiffuseSmoothEdgeMax_1: 1
     - _DiffuseSmoothEdgeMin: 0
@@ -175,7 +175,7 @@ Material:
     - _DGrassAccentColor2: {r: 0.3271215, g: 0.4716981, b: 0.10012461, a: 0}
     - _DarkGrassColor: {r: 0.038345814, g: 0.18867922, b: 0.036489844, a: 0}
     - _DeepWaterColor: {r: 0.030391261, g: 0, b: 0.754717, a: 1}
-    - _DiffuseColor: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
+    - _DiffuseColor: {r: 0, g: 0, b: 0, a: 0}
     - _DiffuseColor_1: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GrassColor: {r: 0.03962263, g: 0.26415092, b: 0, a: 1}
