@@ -64,7 +64,7 @@ Material:
     - _CloudSeparation: -0.75
     - _DayNightSlider: 0
     - _DistanceFadePower: 2
-    - _HorizonBlend: 30
+    - _HorizonBlend: 50
     - _IsCloudSystem1: 0
     - _NadirBlend: 1
     - _NadirBlendPower: 0.3
